@@ -1,0 +1,13 @@
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\bin\Debug\ScrumTaskBoard.exe.config
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\bin\Debug\ScrumTaskBoard.exe
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\bin\Debug\ScrumTaskBoard.pdb
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.csprojAssemblyReference.cache
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.teknik_kart.resources
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.Properties.Resources.resources
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.csproj.GenerateResource.cache
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.exe
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.pdb
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.Scrumtaskboard.resources
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.Teknikkartguncelleme.resources
+C:\Users\Kadir\Desktop\ScrumTaskBoard\ScrumTaskBoard\obj\Debug\ScrumTaskBoard.TaskBoard.resources
